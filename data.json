@@ -9,6 +9,8 @@
       "id": 2,
       "name": "Rohit Sharma",
       "email": "rohit@example.com"
+      "darkMode": true,
     }
   ]
 }
+
